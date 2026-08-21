@@ -30,8 +30,3 @@ If you have any suggestions, bug reports, or would like to contribute to the gam
 ## License
 
 The Tamil Wordle game is released under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the LICENSE file for more details.
-
-## Acknowledgements
-
-- The game was inspired by the original Wordle game.
-- Special thanks to the contributors and developers who have helped in creating and improving Tamil Wordle.
